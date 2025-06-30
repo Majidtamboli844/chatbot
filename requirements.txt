@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+nltk
+sqlite3  # optional, built-in
+python-multipart
